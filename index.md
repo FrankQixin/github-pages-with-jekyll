@@ -1,5 +1,5 @@
 ---
 title: "Welcome to my blog"
 ---
-
-This is mt try
+theme:minima
+This is my try
