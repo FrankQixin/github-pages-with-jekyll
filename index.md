@@ -1,5 +1,5 @@
 ---
 title: "Welcome to my blog"
 ---
-theme: inima
+theme:minima
 This is my try
